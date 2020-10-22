@@ -2,9 +2,12 @@
 #student: Richard J.F.P. Scholtens
 #studentnr.: s2956586
 #datum: 06/12/2016
-#A program that simulates a random walk in a graphic window. It shows the way it travelled and
-#where the walk ended. It does so with a red circle. There is also a text shown wich tells the
-#end destination and how far it has travelled from the starting point. 
+"""
+A program that simulates a random walk in a graphic window. It shows the way it travelled and
+where the walk ended. It does so with a red circle. There is also a text shown wich tells the
+end destination and how far it has travelled from the starting point. 
+"""
+
 
 from random import randrange
 from graphics import *
