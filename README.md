@@ -11,15 +11,15 @@ Chapter 9, assignment 13, but with a variant and with an extension. The random w
 
 NOTE: the chances of a step in each of the four directions are not equal. We take the following opportunities:
 
-step to the right: 0.3
+Step to the right: 0.3
 
-step to the left: 0.2
+Step to the left: 0.2
 
-step up: 0.3
+Step up: 0.3
 
-step down: 0.2
+Step down: 0.2
 
-tip: the distance from starting point (0,0) to position (x, y) is just | here x | + | y |, we don't want to be able to take oblique steps.
+Tip: the distance from starting point (0,0) to position (x, y) is just | here x | + | y |, we don't want to be able to take oblique steps.
 
 EXTENSION: Provide a graphical extension of this assignment, where you can see the random walk step-by-step on your screen.
 
